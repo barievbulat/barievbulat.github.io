@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 🐱‍👤 Мой Redmine
-
 [redmine.bulatbariev.tk](http://redmine.bulatbariev.tk)
 
 
